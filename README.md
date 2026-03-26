@@ -17,21 +17,14 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const houssem = {
-  name:       "Houssem Mehouachi",
-  location:   "Tunisia 🇹🇳",
-  role:       "Full Stack Web Developer",
-  passions:   ["Clean Code", "Scalable Architecture", "Open Source"],
-  currentFocus: "Building impactful web experiences",
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
-};
-```
+Hey! I'm **Houssem Mehouachi**, a passionate Full Stack Web Developer from **Tunisia 🇹🇳**. I love building clean, scalable web applications and I'm always on the lookout for new things to learn and create.
 
 - 🔭 Currently working on **full-stack web applications**
+- 🎮 Building a **2D game with Love2D & Lua** — game dev is my creative escape!
 - 🌱 Always exploring new technologies and best practices
+- ❤️ Passionate about **Clean Code**, **Scalable Architecture** & **Open Source**
 - 💬 Ask me about **React, Node.js, Spring Boot, Docker**
-- ⚡ Fun fact: I also dabble in game dev with Unity & Unreal Engine
+- ⚡ Fun fact: I also tinker with **Unity** & **Unreal Engine** on the side
 
 ---
 
@@ -68,6 +61,8 @@ const houssem = {
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Love2D](https://img.shields.io/badge/Love2D-EA4C89?style=for-the-badge&logo=love&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
@@ -76,14 +71,21 @@ const houssem = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Houssem64&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houssem64&theme=github_dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Houssem64&theme=github_dark)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Houssem64&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Houssem64&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Houssem64&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Houssem64&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Houssem64&theme=github_dark&utcOffset=1)
 
 </div>
 
