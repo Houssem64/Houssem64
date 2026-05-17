@@ -70,6 +70,33 @@ Hey! I'm **Houssem Mehouachi**, a passionate Full Stack Web Developer from **Tun
 
 ## 📊 GitHub Stats
 
+<!-- Row 1: Main stats card + Streak side by side -->
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Houssem64&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Houssem's GitHub Stats"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Houssem64&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=1f6feb" alt="GitHub Streak"/>
+
+</div>
+
+<!-- Row 2: Languages chart -->
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houssem64&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages Donut"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houssem64&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages Compact"/>
+
+</div>
+
+<!-- Row 3: PR & contribution metrics badges -->
+<div align="center">
+
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Pull Requests](https://img.shields.io/github/issues-pr/Houssem64/Houssem64?style=for-the-badge&label=Open%20PRs&color=1f6feb&logo=github&logoColor=white)
+![Merged PRs](https://img.shields.io/github/issues-pr-closed/Houssem64/Houssem64?style=for-the-badge&label=Merged%20PRs&color=238636&logo=githubactions&logoColor=white)
+![Issues](https://img.shields.io/github/issues/Houssem64/Houssem64?style=for-the-badge&label=Issues&color=da3633&logo=github&logoColor=white)
+
+</div>
+
+<!-- Row 4: Detailed summary cards -->
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Houssem64&theme=github_dark)
@@ -96,7 +123,7 @@ Hey! I'm **Houssem Mehouachi**, a passionate Full Stack Web Developer from **Tun
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Houssem64&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Houssem64&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -106,7 +133,7 @@ Hey! I'm **Houssem Mehouachi**, a passionate Full Stack Web Developer from **Tun
 
 <div align="center">
 
-[![Houssem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Houssem64&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Houssem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Houssem64&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
