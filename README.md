@@ -70,23 +70,15 @@ Hey! I'm **Houssem Mehouachi**, a passionate Full Stack Web Developer from **Tun
 
 ## 📊 GitHub Stats
 
-<!-- Row 1: Streak (reliable) + Stats via alternative instance -->
+
+<!-- Row 1: Streak -->
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Houssem64&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=1f6feb" alt="GitHub Streak"/>
-<img height="180em" src="https://github-readme-stats-8qh3tmt1w-houssem64s-projects.vercel.app/api?username=Houssem64&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Houssem's GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=Houssem64&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=1f6feb" alt="GitHub Streak"/>
 
 </div>
 
-<!-- Row 2: Languages via alternative instance -->
-<div align="center">
-
-<img height="195em" src="https://github-readme-stats-8qh3tmt1w-houssem64s-projects.vercel.app/api/top-langs/?username=Houssem64&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages Donut"/>
-<img height="195em" src="https://github-readme-stats-8qh3tmt1w-houssem64s-projects.vercel.app/api/top-langs/?username=Houssem64&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages Compact"/>
-
-</div>
-
-<!-- Row 3: PR & contribution metrics badges -->
+<!-- Row 2: PR & contribution metrics badges -->
 <div align="center">
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-58a6ff?style=for-the-badge&logo=github&logoColor=white)
@@ -96,7 +88,7 @@ Hey! I'm **Houssem Mehouachi**, a passionate Full Stack Web Developer from **Tun
 
 </div>
 
-<!-- Row 4: Profile summary cards (stable, separate service) -->
+<!-- Row 3: Profile summary cards (stable, separate service) -->
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Houssem64&theme=github_dark)
@@ -145,7 +137,7 @@ Hey! I'm **Houssem Mehouachi**, a passionate Full Stack Web Developer from **Tun
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-mehouachi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://houssem-mehouachi.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:houssem.dev@outlook.com)
+[![Email](https://img.shields.io/badge/Email-houssem.dev%40outlook.com-58a6ff?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:houssem.dev@outlook.com)
 
 </div>
 
